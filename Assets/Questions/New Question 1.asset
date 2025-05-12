@@ -12,4 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 273645446d147c541a6102a4b79c2276, type: 3}
   m_Name: New Question 1
   m_EditorClassIdentifier: 
-  _question: What is a variable?
+  question: "\t\t\t"
+  answers:
+  - int num = 12;
+  - Int num = "12";
+  - Int num = 12;
+  - int num = "12";
+  correctAnswerIndex: 0
